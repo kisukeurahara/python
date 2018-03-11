@@ -1,1 +1,2 @@
-# python
+# python Notları
+Haftalık yapılan çalışmalar
